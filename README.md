@@ -3,9 +3,13 @@
 ### 👨‍💻 Chi sono
 Sono un **Junior Fullstack Developer** appassionato di sviluppo web e sicurezza informatica. Mi piace costruire applicazioni robuste e studiare le vulnerabilità per scrivere codice sicuro.
 
-- 🎓 **Aulab Hackademy 2026 Certified** (400 ore di formazione intensiva)
-- 🛡️ **Cyber Security Specialization** (Focus su Secure Coding & API Security)
-- 🐍 **Python Certified** (Accademia del Levante)
+### 🎓 Formazione e Certificazioni:
+
+- 🛡️ **Cyber Security Specialization** *(Secure Coding, API Security, OWASP Top 10)*
+- 📜 **Aulab Hackademy 2026 Certified** *(400 ore di formazione intensiva Fullstack Developer)*
+- 🐍 **Python Certified - Accademia del Levante** *(Data Structure, Algorithm design)*
+
+---
 
 ---
 
