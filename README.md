@@ -31,6 +31,11 @@ Sono un **Junior Fullstack Developer** appassionato di sviluppo web e sicurezza 
 ---
 
 ### 📊 GitHub Stats:
-![Le mie statistiche](https://github-readme-stats.vercel.app/api?username=DanieleUva&show_icons=true&theme=dark&count_private=true)
 
-![I miei linguaggi](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleUva&layout=compact&theme=dark&hide_border=false)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanieleUva&show_icons=true&theme=dark" alt="Stats di Daniele" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleUva&layout=compact&theme=dark" alt="Linguaggi di Daniele" />
+</p>
