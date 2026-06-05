@@ -34,11 +34,5 @@ Sono un **Junior Fullstack Developer** appassionato di sviluppo web e sicurezza 
 
 ---
 
-### 📊 GitHub Activity:
-
-![Daniele's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanieleUva&theme=react-dark)
-
----
-
 ### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=DanieleUva&theme=onedark&margin-w=15&no-bg=true)
